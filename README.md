@@ -28,7 +28,7 @@ Each project is in a **separate branch** for easy code management.
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
 | 🤖 **AI Chatbot** | A Python chatbot using NLP and deep learning. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/ai-chatbot) |
 | 📈 **Stock Price Prediction** | Forecasting stock prices using LSTMs and AI models. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/stock-prediction) |
-
+| 🎬 **Movie Recommendation App** | Recommends movies based on user preferences using ML models. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/movie-recommendation) 
 ---
 
 ## 📌 **How to Use?**
