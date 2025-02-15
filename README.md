@@ -26,8 +26,8 @@ Each project is in a **separate branch** for easy code management.
 | 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/image-processing) |
 | 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
-| 🏦 **Financial Data Analysis** | A Python project analyzing stock market trends and financial indicators. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/financial-analysis) |
-| 🎵 **Music Genre Classification** | Classifying music genres using machine learning and audio processing techniques. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/music-genre-classification) |
+| 🎮 **Tic Tac Toe Game** | A futuristic AI-powered Tic Tac Toe game. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/tic-tac-toe) |
+| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/opencv-real-time) |
 
 ---
 
@@ -53,6 +53,11 @@ git checkout avocado-prices
 jupyter notebook
 ```
 Open the corresponding `.ipynb` file and start exploring!
+
+---
+
+## 🖼️ **Project Showcase**
+![Tic Tac Toe Game](https://github.com/evgeniimatveev/Python-Projects/blob/main/Images/tic_tac_toe.png)
 
 ---
 
