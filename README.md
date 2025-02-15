@@ -26,8 +26,8 @@ Each project is in a **separate branch** for easy code management.
 | 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/image-processing) |
 | 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
-| 🤖 **AI Chatbot** | A Python chatbot using NLP and deep learning. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/ai-chatbot) |
-| 📈 **Stock Price Prediction** | Forecasting stock prices using LSTMs and AI models. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/stock-prediction) |
+| 🏦 **Financial Data Analysis** | A Python project analyzing stock market trends and financial indicators. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/financial-analysis) |
+| 🎵 **Music Genre Classification** | Classifying music genres using machine learning and audio processing techniques. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/music-genre-classification) |
 
 ---
 
