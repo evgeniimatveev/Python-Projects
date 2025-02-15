@@ -16,18 +16,18 @@ It includes projects covering **machine learning, data analysis, computer vision
 
 Each project is in a **separate branch** for easy code management.
 
-| Project  | Description | Image | GitHub |
-|---------|----------|------------|--------|
-| 🥑 **Avocado Prices Prediction** | Price prediction for avocados using Prophet and Data Visualization. | ![Avocado Prices](images/avocado.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/avocado-prices) |
-| 🛒 **Amazon Reviews Analysis** | NLP-based sentiment analysis of Amazon reviews using Python. | ![Amazon Reviews](images/amazon_reviews.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/amazon-reviews) |
-| 🎨 **Cartoon Effect Using Webcam** | Applying OpenCV to create a cartoon effect via webcam. | ![Cartoon Effect](images/cartoon_effect.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/cartoon-effect) |
-| 🔮 **Fortune Teller Game** | A game that predicts fortunes using Python. | ![Fortune Teller](images/fortune_teller.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/fortune-teller) |
-| ❓ **Guessing Game** | Classic number guessing game in Python. | ![Guessing Game](images/guessing_game.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/guessing-game) |
-| 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | ![Image Processing](images/image_processing.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/image-processing) |
-| 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | ![ROI Selection](images/roi_selection.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
-| ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | ![Zodiac Sign](images/zodiac_sign.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
-| 🤖 **AI Chatbot** | A Python chatbot using NLP and deep learning. | ![AI Chatbot](images/ai_chatbot.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/ai-chatbot) |
-| 📈 **Stock Price Prediction** | Forecasting stock prices using LSTMs and AI models. | ![Stock Prediction](images/stock_prediction.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/stock-prediction) |
+| Project  | Description | GitHub |
+|---------|----------|--------|
+| 🥑 **Avocado Prices Prediction** | Price prediction for avocados using Prophet and Data Visualization. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/avocado-prices) |
+| 🛒 **Amazon Reviews Analysis** | NLP-based sentiment analysis of Amazon reviews using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/amazon-reviews) |
+| 🎨 **Cartoon Effect Using Webcam** | Applying OpenCV to create a cartoon effect via webcam. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/cartoon-effect) |
+| 🔮 **Fortune Teller Game** | A game that predicts fortunes using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/fortune-teller) |
+| ❓ **Guessing Game** | Classic number guessing game in Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/guessing-game) |
+| 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/image-processing) |
+| 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
+| ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
+| 🤖 **AI Chatbot** | A Python chatbot using NLP and deep learning. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/ai-chatbot) |
+| 📈 **Stock Price Prediction** | Forecasting stock prices using LSTMs and AI models. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/stock-prediction) |
 
 ---
 
