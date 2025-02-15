@@ -18,16 +18,17 @@ Each project is in a **separate branch** for easy code management.
 
 | Project  | Description | GitHub |
 |---------|----------|--------|
-| 🥑 **Avocado Prices Prediction** | Price prediction for avocados using Prophet and Data Visualization. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/avocado-prices) |
-| 🛒 **Amazon Reviews Analysis** | NLP-based sentiment analysis of Amazon reviews using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/amazon-reviews) |
-| 🎨 **Cartoon Effect Using Webcam** | Applying OpenCV to create a cartoon effect via webcam. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/cartoon-effect) |
-| 🔮 **Fortune Teller Game** | A game that predicts fortunes using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/fortune-teller) |
-| ❓ **Guessing Game** | Classic number guessing game in Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/guessing-game) |
-| 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/image-processing) |
-| 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
-| ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
-| 🎮 **Tic Tac Toe Game** | A futuristic AI-powered Tic Tac Toe game. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/tic-tac-toe) |
-| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/opencv-real-time) |
+| 🥑 **Avocado Prices Prediction** | Price prediction for avocados using Prophet and Data Visualization. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%A5%91-Avocado-Prices-Prediction-%E2%9C%85%E2%9C%85%E2%9C%85/FastAPI%20%26%20Streamlit%20Guide%20for%20Avocado%20Price%20Prediction.ipynb)
+| 🛒 **Amazon Reviews Analysis** | NLP-based sentiment analysis of Amazon reviews using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%9B%92-Amazon-Reviews-Analysis%E2%9C%85%E2%9C%85%E2%9C%85/Amazon%20Reviews%20Analysis(S4).ipynb)
+| 🎨 **Cartoon Effect Using Webcam** | Applying OpenCV to create a cartoon effect via webcam. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%A8-Cartoon-Effect-Using-Webcam%E2%9C%85%E2%9C%85%E2%9C%85/Cartoon%20Effect%20Using%20Webcam(S4).ipynb)
+| 🔮 **Fortune Teller Game** | A game that predicts fortunes using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%94%AE-Fortune-Teller-Game%E2%9C%85%E2%9C%85%E2%9C%85/Fortune%20Teller%20game(S4).ipynb) |
+| ❓ **Guessing Game** | Classic number guessing game in Python. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%E2%9D%93-Guessing-Game%E2%9C%85%E2%9C%85%E2%9C%85/Guessing%20Game(S4).ipynb) |
+| 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%96%BC%EF%B8%8F-Image-Processing-App%E2%9C%85%E2%9C%85%E2%9C%85/Image%20Processing%20App%20with%209%2B%20Effects%20%26%20GUI(S4).ipynb) |
+| 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%AF-Region-of-Interest-Selection%E2%9C%85%E2%9C%85%E2%9C%85/Region%20of%20interest%20Selection(S4).ipynb) |
+| ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%E2%99%92-Zodiac-Sign-Finder%E2%9C%85%E2%9C%85%E2%9C%85/Zodiac%20Sign(S4).ipynb) |
+| 🎮 **Tic Tac Toe Game** | A futuristic AI-powered Tic Tac Toe game. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%AE-Tic-Tac-Toe-Game%E2%9C%85%E2%9C%85%E2%9C%85/Tic%20Tac%20Toe%20Game(S4).ipynb) |
+| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%94%8D-OpenCV-Real-time-Image-Processing%E2%9C%85%E2%9C%85%E2%9C%85/OpenCV%20for%20real-time%20image%20processing(S4).ipynb) | 
+| 🎬 **Movie Recommendation App** | Recommends movies based on user preferences using ML models. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%AC-Movie-Recommendation-App%E2%9C%85%E2%9C%85%E2%9C%85/Movie%20Recommendation%20App(S4).ipynb) 
 
 ---
 
