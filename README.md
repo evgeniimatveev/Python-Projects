@@ -27,7 +27,8 @@ Each project is in a **separate branch** for easy code management.
 | 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%AF-Region-of-Interest-Selection%E2%9C%85%E2%9C%85%E2%9C%85/Region%20of%20interest%20Selection(S4).ipynb) |
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%E2%99%92-Zodiac-Sign-Finder%E2%9C%85%E2%9C%85%E2%9C%85/Zodiac%20Sign(S4).ipynb) |
 | 🎮 **Tic Tac Toe Game** | A futuristic AI-powered Tic Tac Toe game. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%AE-Tic-Tac-Toe-Game%E2%9C%85%E2%9C%85%E2%9C%85/Tic%20Tac%20Toe%20Game(S4).ipynb) |
-| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%94%8D-OpenCV-Real-time-Image-Processing%E2%9C%85%E2%9C%85%E2%9C%85/OpenCV%20for%20real-time%20image%20processing(S4).ipynb) |
+| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%94%8D-OpenCV-Real-time-Image-Processing%E2%9C%85%E2%9C%85%E2%9C%85/OpenCV%20for%20real-time%20image%20processing(S4).ipynb) | 
+| 🎬 **Movie Recommendation App** | Recommends movies based on user preferences using ML models. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/movie-recommendation) 
 
 ---
 
