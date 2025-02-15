@@ -27,7 +27,7 @@ Each project is in a **separate branch** for easy code management.
 | 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
 | 🎮 **Tic Tac Toe Game** | A futuristic AI-powered Tic Tac Toe game. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/tic-tac-toe) |
-| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/opencv-real-time) |
+| 🔍 **OpenCV Real-time Image Processing** | Using OpenCV for live image modifications and enhancements. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%94%8D-OpenCV-Real-time-Image-Processing%E2%9C%85%E2%9C%85%E2%9C%85/OpenCV%20for%20real-time%20image%20processing(S4).ipynb) |
 
 ---
 
