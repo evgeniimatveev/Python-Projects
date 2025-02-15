@@ -18,7 +18,7 @@ Each project is in a **separate branch** for easy code management.
 
 | Project  | Description | GitHub |
 |---------|----------|--------|
-| 🥑 **Avocado Prices Prediction** | Price prediction for avocados using Prophet and Data Visualization. | [View]([https://github.com/evgeniimatveev/Python-Projects/tree/avocado-prices](https://github.com/evgeniimatveev/Python-Projects/tree/%F0%9F%A5%91-Avocado-Prices-Prediction-%E2%9C%85%E2%9C%85%E2%9C%85)) |
+| 🥑 **Avocado Prices Prediction** | Price prediction for avocados using Prophet and Data Visualization. | [View]([https://github.com/evgeniimatveev/Python-Projects/tree/avocado-prices]) |
 | 🛒 **Amazon Reviews Analysis** | NLP-based sentiment analysis of Amazon reviews using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/amazon-reviews) |
 | 🎨 **Cartoon Effect Using Webcam** | Applying OpenCV to create a cartoon effect via webcam. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/cartoon-effect) |
 | 🔮 **Fortune Teller Game** | A game that predicts fortunes using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/fortune-teller) |
