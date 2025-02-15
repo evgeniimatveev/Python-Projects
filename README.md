@@ -27,7 +27,7 @@ Each project is in a **separate branch** for easy code management.
 | 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | ![ROI Selection](images/roi_selection.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | ![Zodiac Sign](images/zodiac_sign.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
 | 🤖 **AI Chatbot** | A Python chatbot using NLP and deep learning. | ![AI Chatbot](images/ai_chatbot.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/ai-chatbot) |
-| 📈 **Stock Price Prediction** | Forecasting stock prices using LSTMs and AI models. | ![Stock Prediction](images/stock_prediction.png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/stock-prediction) |
+| 📈 **Stock Price Prediction** | Forecasting stock prices using LSTMs and AI models. | ![Stock Prediction](DALL·E 2025-02-14 16.34.50 - An engaging image representing a Tic Tac Toe game. The image should feature a glowing Tic Tac Toe board with Xs and Os, a digital game interface, and .png) | [View](https://github.com/evgeniimatveev/Python-Projects/tree/stock-prediction) |
 
 ---
 
