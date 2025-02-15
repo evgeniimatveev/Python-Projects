@@ -23,7 +23,7 @@ Each project is in a **separate branch** for easy code management.
 | 🎨 **Cartoon Effect Using Webcam** | Applying OpenCV to create a cartoon effect via webcam. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%A8-Cartoon-Effect-Using-Webcam%E2%9C%85%E2%9C%85%E2%9C%85/Cartoon%20Effect%20Using%20Webcam(S4).ipynb)
 | 🔮 **Fortune Teller Game** | A game that predicts fortunes using Python. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%94%AE-Fortune-Teller-Game%E2%9C%85%E2%9C%85%E2%9C%85/Fortune%20Teller%20game(S4).ipynb) |
 | ❓ **Guessing Game** | Classic number guessing game in Python. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%E2%9D%93-Guessing-Game%E2%9C%85%E2%9C%85%E2%9C%85/Guessing%20Game(S4).ipynb) |
-| 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/image-processing) |
+| 🖼️ **Image Processing App** | Real-time image processing with OpenCV and 9+ effects. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%96%BC%EF%B8%8F-Image-Processing-App%E2%9C%85%E2%9C%85%E2%9C%85/Image%20Processing%20App%20with%209%2B%20Effects%20%26%20GUI(S4).ipynb) |
 | 🎯 **Region of Interest Selection** | Selecting regions of interest (ROI) in images using OpenCV. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/roi-selection) |
 | ♒ **Zodiac Sign Finder** | Determines your zodiac sign based on your birth date. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/zodiac-sign) |
 | 🎮 **Tic Tac Toe Game** | A futuristic AI-powered Tic Tac Toe game. | [View](https://github.com/evgeniimatveev/Python-Projects/tree/tic-tac-toe) |
