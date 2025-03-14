@@ -57,11 +57,6 @@ Open the corresponding `.ipynb` file and start exploring!
 
 ---
 
-## 🖼️ **Project Showcase**
-![Tic Tac Toe Game](https://github.com/evgeniimatveev/Python-Projects/blob/main/Images/tic_tac_toe.png)
-
----
-
 ## 🤝 **Contribute & Collaborate**
 Want to contribute? Great!  
 ✅ **Fork** the repository  
