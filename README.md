@@ -67,8 +67,7 @@ Want to contribute? Great!
 
 ## 📢 **Contact Information**
 📌 **GitHub**: [evgeniimatveev](https://github.com/evgeniimatveev)  
-📌 **LinkedIn**: [Evgenii Matveev](https://www.linkedin.com/in/evgeniimatveev)  
-📌 **Email**: evgenii.matveev@example.com  
+📌 **LinkedIn**: [Evgenii Matveev](https://www.linkedin.com/in/evgenii-matveev-510926276/)  
 
 ⭐ **Like this repository? Give it a star!** 🚀
 
