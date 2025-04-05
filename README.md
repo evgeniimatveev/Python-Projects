@@ -31,6 +31,23 @@ Each project is in a **separate branch** for easy code management.
 | 🎬 **Movie Recommendation App** | Recommends movies based on user preferences using ML models. | [View](https://github.com/evgeniimatveev/Python-Projects/blob/%F0%9F%8E%AC-Movie-Recommendation-App%E2%9C%85%E2%9C%85%E2%9C%85/Movie%20Recommendation%20App(S4).ipynb) 
 
 ---
+| 💡 Project                                   | 📝 Description                                                                                      | 🔗 GitHub                                                                                                             |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 🥑 **Avocado Prices Prediction**             | Price prediction for avocados using Prophet and Data Visualization.                                 | [View](https://github.com/evgeniimatveev/Python-Projects/blob/📈-Avocado-Prices-Prediction/FastAPI%20%26%20Streamlit%20Guide%20for%20Avocado%20Price%20Prediction.ipynb) |
+| 🛒 **Amazon Reviews Analysis**               | NLP-based sentiment analysis of Amazon reviews using Python.                                        | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🛍️-Amazon-Reviews-Analysis/Amazon%20Reviews%20Analysis(S4).ipynb) |
+| ✨ **Real-Time AI Detection & Filters**      | YOLOv5 + MediaPipe + filters via webcam. Real-time object, hand & pose detection with effects.       | [View Notebook](https://github.com/evgeniimatveev/Python-Projects/blob/🎨-Cartoon-Effect-Using-Webcam✅✅✅/Cartoon%20Effect%20Using%20Webcam(S4).ipynb) |
+| 🔮 **Fortune Teller Game**                   | A game that predicts fortunes using Python.                                                         | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🔮-Fortune-Teller-Game/Fortune%20Teller%20Game(S4).ipynb) |
+| ❓ **Guessing Game**                         | Classic number guessing game in Python.                                                             | [View](https://github.com/evgeniimatveev/Python-Projects/blob/❓-Guessing-Game/Guessing%20Game(S4).ipynb) |
+| 🖼️ **Image Processing App**                  | Real-time image processing with OpenCV and 9+ effects.                                              | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🖼️-Image-Processing-App/Image%20Processing(S4).ipynb) |
+| 🎯 **Region of Interest Selection**          | Selecting regions of interest (ROI) in images using OpenCV.                                         | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🎯-Region-of-Interest-Selection/Region%20of%20Interest(S4).ipynb) |
+| ♒ **Zodiac Sign Finder**                    | Determines your zodiac sign based on your birth date.                                               | [View](https://github.com/evgeniimatveev/Python-Projects/blob/♒-Zodiac-Sign-Finder/Zodiac%20Sign(S4).ipynb) |
+| 🎮 **Tic Tac Toe Game**                      | A futuristic AI-powered Tic Tac Toe game.                                                           | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🎮-Tic-Tac-Toe-Game/Tic%20Tac%20Toe%20(S4).ipynb) |
+| 🧠 **OpenCV Real-time Processing**           | Using OpenCV for live image modifications and enhancements.                                         | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🧠-OpenCV-Real-time-Image-Processing/OpenCV%20(S4).ipynb) |
+| 🎥 **Movie Recommendation App**              | Recommends movies based on user preferences using ML models.                                        | [View](https://github.com/evgeniimatveev/Python-Projects/blob/🎥-Movie-Recommendation-App/Movie%20Recommendation(S4).ipynb) |
+
+
+
+
 
 ## 📌 **How to Use?**
 
