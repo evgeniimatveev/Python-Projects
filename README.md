@@ -85,4 +85,3 @@ git commit -m "Added structured README and project images"
 git push origin main
 ```
 
-Done! Now your **GitHub repository looks PROFESSIONAL!** 🚀🔥
