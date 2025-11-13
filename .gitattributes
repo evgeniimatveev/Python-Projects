@@ -4,7 +4,7 @@
 *.py linguist-detectable=true linguist-language=Python
 
 # Jupyter notebooks (if you add them later)
-*.ipynb linguist-detectable=true linguist-language=Jupyter\ Notebook
+.ipynb  linguist-detectable=true linguist-language=Jupyter\ Notebook
 
 # Do not count data files as a programming language
 *.csv  linguist-detectable=false
