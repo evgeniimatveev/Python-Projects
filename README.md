@@ -1,3 +1,28 @@
+<p align="center">
+
+  <!-- Core stack -->
+  <img src="https://img.shields.io/badge/Python-Projects-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Style-Clean_&_Commented-brightgreen" />
+
+  <br/>
+
+  <!-- Domains / project types -->
+  <img src="https://img.shields.io/badge/Machine_Learning-Models_&_Predictions-ff9800" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Insights_&_EDA-03A9F4" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV_&_Real--time-9C27B0" />
+  <img src="https://img.shields.io/badge/Interactive_Apps-Games_&_Tools-4CAF50" />
+
+  <br/>
+
+  <!-- Level / status -->
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-yellow" />
+  <img src="https://img.shields.io/badge/Projects-Branch--based_Structure-bluegrey" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+
+</p>
+
+
 # 🚀 Python Projects Hub 🔥
 
 ### 🏆 **Welcome to Python Projects!**  
