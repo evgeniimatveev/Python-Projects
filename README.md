@@ -33,7 +33,7 @@ It includes projects covering **machine learning, data analysis, computer vision
 ✅ **Real-world projects** to enhance your skills  
 ✅ **Clean code** with comments and examples  
 ✅ **Interactive Jupyter Notebooks**  
-✅ **Different difficulty levels (from beginner to advanced)**  
+✅ **Different difficulty levels (from beginner to advanced)** 
 
 ---
 
