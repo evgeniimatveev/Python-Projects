@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="700" viewBox="0 0 760 700" role="img" aria-label="The avocado price calendar">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#18224a"/></linearGradient></defs>
+<rect width="760" height="700" rx="16" fill="url(#bg)" stroke="#2a3566"/>
+<text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecff">The avocado price calendar</text>
+<text x="32" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9aa7d0">avocado.csv: average price by month, 18,249 weekly rows over 54 regions, 2015 to 2018</text>
+<circle cx="380" cy="365" r="88.3" fill="none" stroke="#9aa7d0" stroke-opacity="0.25" stroke-dasharray="3 5"/>
+<text x="386" y="290.7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9aa7d0">$1.00</text>
+<circle cx="380" cy="365" r="145.0" fill="none" stroke="#9aa7d0" stroke-opacity="0.25" stroke-dasharray="3 5"/>
+<text x="386" y="234.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9aa7d0">$1.40</text>
+<circle cx="380" cy="365" r="201.7" fill="none" stroke="#9aa7d0" stroke-opacity="0.25" stroke-dasharray="3 5"/>
+<text x="386" y="177.3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9aa7d0">$1.80</text>
+<line x1="380" y1="365" x2="380.0" y2="135.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="380.0" y="112.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Jan</text>
+<line x1="380" y1="365" x2="495.0" y2="165.8" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="509.0" y="146.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Feb</text>
+<line x1="380" y1="365" x2="579.2" y2="250.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="603.4" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Mar</text>
+<line x1="380" y1="365" x2="610.0" y2="365.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="638.0" y="370.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Apr</text>
+<line x1="380" y1="365" x2="579.2" y2="480.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="603.4" y="499.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">May</text>
+<line x1="380" y1="365" x2="495.0" y2="564.2" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="509.0" y="593.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Jun</text>
+<line x1="380" y1="365" x2="380.0" y2="595.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="380.0" y="628.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Jul</text>
+<line x1="380" y1="365" x2="265.0" y2="564.2" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="251.0" y="593.4" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Aug</text>
+<line x1="380" y1="365" x2="180.8" y2="480.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="156.6" y="499.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Sep</text>
+<line x1="380" y1="365" x2="150.0" y2="365.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="122.0" y="370.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Oct</text>
+<line x1="380" y1="365" x2="180.8" y2="250.0" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="156.6" y="241.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Nov</text>
+<line x1="380" y1="365" x2="265.0" y2="165.8" stroke="#9aa7d0" stroke-opacity="0.18"/>
+<text x="251.0" y="146.6" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8ecff">Dec</text>
+<polygon points="380.0,266.9 425.4,286.4 472.0,311.9 488.5,365.0 467.5,415.5 434.7,459.8 380.0,483.4 319.2,470.4 267.3,430.0 242.2,365.0 278.2,306.2 330.4,279.0" fill="#ffd43b" fill-opacity="0.22" stroke="#ffd43b" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="380.0" cy="266.9" r="4.5" fill="#ffd43b"/>
+<circle cx="425.4" cy="286.4" r="4.5" fill="#ffd43b"/>
+<circle cx="472.0" cy="311.9" r="4.5" fill="#ffd43b"/>
+<circle cx="488.5" cy="365.0" r="4.5" fill="#ffd43b"/>
+<circle cx="467.5" cy="415.5" r="4.5" fill="#ffd43b"/>
+<circle cx="434.7" cy="459.8" r="4.5" fill="#ffd43b"/>
+<circle cx="380.0" cy="483.4" r="4.5" fill="#ffd43b"/>
+<circle cx="319.2" cy="470.4" r="4.5" fill="#ffd43b"/>
+<circle cx="267.3" cy="430.0" r="4.5" fill="#ffd43b"/>
+<circle cx="242.2" cy="365.0" r="4.5" fill="#ffd43b"/>
+<circle cx="278.2" cy="306.2" r="4.5" fill="#ffd43b"/>
+<circle cx="330.4" cy="279.0" r="4.5" fill="#ffd43b"/>
+<polygon points="380.0,198.3 461.8,223.3 522.5,282.7 554.2,365.0 530.6,451.9 471.6,523.6 380.0,554.2 279.9,538.4 199.1,469.4 176.9,365.0 217.0,270.9 294.4,216.7" fill="#5ee0a0" fill-opacity="0.22" stroke="#5ee0a0" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="380.0" cy="198.3" r="4.5" fill="#5ee0a0"/>
+<circle cx="461.8" cy="223.3" r="4.5" fill="#5ee0a0"/>
+<circle cx="522.5" cy="282.7" r="4.5" fill="#5ee0a0"/>
+<circle cx="554.2" cy="365.0" r="4.5" fill="#5ee0a0"/>
+<circle cx="530.6" cy="451.9" r="4.5" fill="#5ee0a0"/>
+<circle cx="471.6" cy="523.6" r="4.5" fill="#5ee0a0"/>
+<circle cx="380.0" cy="554.2" r="4.5" fill="#5ee0a0"/>
+<circle cx="279.9" cy="538.4" r="4.5" fill="#5ee0a0"/>
+<circle cx="199.1" cy="469.4" r="4.5" fill="#5ee0a0"/>
+<circle cx="176.9" cy="365.0" r="4.5" fill="#5ee0a0"/>
+<circle cx="217.0" cy="270.9" r="4.5" fill="#5ee0a0"/>
+<circle cx="294.4" cy="216.7" r="4.5" fill="#5ee0a0"/>
+<rect x="32" y="118" width="16" height="16" rx="4" fill="#ffd43b"/><text x="58" y="131" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e8ecff">conventional</text>
+<text x="58" y="151" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">peak Oct $1.35 · low Feb $1.02</text>
+<rect x="32" y="174" width="16" height="16" rx="4" fill="#5ee0a0"/><text x="58" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e8ecff">organic</text>
+<text x="58" y="207" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">peak Sep $1.85 · low Feb $1.53</text>
+<text x="32" y="682" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9aa7d0">Mean of AveragePrice per calendar month across all regions · computed from 01-avocado-price-forecasting/avocado.csv</text>
+</svg>

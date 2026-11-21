@@ -21,7 +21,7 @@
 
 ## Two ways to run
 
-**1. Notebook demo** (no GUI) — run the matplotlib comparison cell, set `IMAGE_PATH` to any local image.
+**1. Notebook demo** (no GUI) — run the matplotlib comparison cell. It uses the included `sample.jpg` (a generated test image); set `IMAGE_PATH` to any local photo to try your own.
 
 **2. Full GUI** — run the last cell, a tkinter window opens: Upload → Select Effect → Apply → Save.
 

@@ -26,7 +26,7 @@
 
 ## Dataset
 
-`amazon_alexa.tsv` — not included (download from [Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews)).
+`amazon_alexa.tsv` — not included; download it from [Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews).
 
 ## Quick Start
 

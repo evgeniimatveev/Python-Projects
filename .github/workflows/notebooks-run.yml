@@ -5,8 +5,6 @@ name: Notebooks run (manual)
 # input() gets scripted answers, tkinter windows are built under Xvfb and closed at once.
 on:
   workflow_dispatch:
-  push:
-    branches: [restructure/single-main-numbered-projects]   # TEMPORARY: to test before merge
 
 permissions:
   contents: read

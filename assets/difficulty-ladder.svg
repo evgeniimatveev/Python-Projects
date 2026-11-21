@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="590" viewBox="0 0 980 590" role="img" aria-label="The difficulty ladder">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#18224a"/></linearGradient></defs>
+<rect width="980" height="590" rx="16" fill="url(#bg)" stroke="#2a3566"/>
+<text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecff">The difficulty ladder</text>
+<text x="32" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9aa7d0">Levels as rated in 00-quickstart/intro_notebook.ipynb: three projects to start with, two to aim for</text>
+<rect x="30" y="290" width="290" height="250" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#2a3566"/>
+<text x="48" y="324" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e8ecff">Beginner</text>
+<text x="302" y="324" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#9aa7d0">3 projects</text>
+<rect x="44" y="346" width="262" height="38" rx="10" fill="#ff7ab6" fill-opacity="0.95"/>
+<text x="58" y="371" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">08</text>
+<text x="94" y="371" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Fortune Teller Game</text>
+<rect x="44" y="392" width="262" height="38" rx="10" fill="#ff7ab6" fill-opacity="0.95"/>
+<text x="58" y="417" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">09</text>
+<text x="94" y="417" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Number Guessing Game</text>
+<rect x="44" y="438" width="262" height="38" rx="10" fill="#5ee0a0" fill-opacity="0.95"/>
+<text x="58" y="463" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">10</text>
+<text x="94" y="463" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Zodiac Sign Finder</text>
+<rect x="335" y="200" width="290" height="340" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#2a3566"/>
+<text x="353" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e8ecff">Intermediate</text>
+<text x="607" y="234" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#9aa7d0">5 projects</text>
+<rect x="349" y="256" width="262" height="38" rx="10" fill="#ffd43b" fill-opacity="0.95"/>
+<text x="363" y="281" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">01</text>
+<text x="399" y="281" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Avocado Price Forecasting</text>
+<rect x="349" y="302" width="262" height="38" rx="10" fill="#ffd43b" fill-opacity="0.95"/>
+<text x="363" y="327" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">02</text>
+<text x="399" y="327" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Amazon Reviews Sentiment</text>
+<rect x="349" y="348" width="262" height="38" rx="10" fill="#ffd43b" fill-opacity="0.95"/>
+<text x="363" y="373" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">04</text>
+<text x="399" y="373" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Movie Recommendation App</text>
+<rect x="349" y="394" width="262" height="38" rx="10" fill="#4fd1ff" fill-opacity="0.95"/>
+<text x="363" y="419" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">05</text>
+<text x="399" y="419" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Image Processing App</text>
+<rect x="349" y="440" width="262" height="38" rx="10" fill="#ff7ab6" fill-opacity="0.95"/>
+<text x="363" y="465" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">07</text>
+<text x="399" y="465" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Tic Tac Toe with minimax AI</text>
+<rect x="640" y="110" width="290" height="430" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#2a3566"/>
+<text x="658" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e8ecff">Advanced</text>
+<text x="912" y="144" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#9aa7d0">2 projects</text>
+<rect x="654" y="166" width="262" height="38" rx="10" fill="#4fd1ff" fill-opacity="0.95"/>
+<text x="668" y="191" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">03</text>
+<text x="704" y="191" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">Real-Time AI Filters</text>
+<rect x="654" y="212" width="262" height="38" rx="10" fill="#4fd1ff" fill-opacity="0.95"/>
+<text x="668" y="237" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700" fill="#0b1226">06</text>
+<text x="704" y="237" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0b1226">OpenCV Real-time Processing</text>
+<circle cx="47" cy="560" r="7" fill="#ffd43b"/><text x="60" y="565" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Data &amp; ML</text>
+<circle cx="197" cy="560" r="7" fill="#4fd1ff"/><text x="210" y="565" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Computer vision</text>
+<circle cx="347" cy="560" r="7" fill="#ff7ab6"/><text x="360" y="565" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Games</text>
+<circle cx="497" cy="560" r="7" fill="#5ee0a0"/><text x="510" y="565" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Utility</text>
+</svg>

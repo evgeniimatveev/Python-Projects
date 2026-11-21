@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="670" viewBox="0 0 980 670" role="img" aria-label="What each project is built with">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#18224a"/></linearGradient></defs>
+<rect width="980" height="670" rx="16" fill="url(#bg)" stroke="#2a3566"/>
+<text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e8ecff">What each project is built with</text>
+<text x="32" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9aa7d0">Imports found in the 10 notebooks: 14 third-party libraries; the last row marks projects that need nothing but Python</text>
+<rect x="201.0" y="104" width="48" height="26" rx="8" fill="#ffd43b" fill-opacity="0.9"/><text x="225.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">01</text>
+<text x="225.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Avocado</text>
+<rect x="271.0" y="104" width="48" height="26" rx="8" fill="#ffd43b" fill-opacity="0.9"/><text x="295.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">02</text>
+<text x="295.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Amazon</text>
+<rect x="341.0" y="104" width="48" height="26" rx="8" fill="#4fd1ff" fill-opacity="0.9"/><text x="365.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">03</text>
+<text x="365.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">AI detect</text>
+<rect x="411.0" y="104" width="48" height="26" rx="8" fill="#ffd43b" fill-opacity="0.9"/><text x="435.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">04</text>
+<text x="435.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Movies</text>
+<rect x="481.0" y="104" width="48" height="26" rx="8" fill="#4fd1ff" fill-opacity="0.9"/><text x="505.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">05</text>
+<text x="505.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Image app</text>
+<rect x="551.0" y="104" width="48" height="26" rx="8" fill="#4fd1ff" fill-opacity="0.9"/><text x="575.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">06</text>
+<text x="575.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">OpenCV</text>
+<rect x="621.0" y="104" width="48" height="26" rx="8" fill="#ff7ab6" fill-opacity="0.9"/><text x="645.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">07</text>
+<text x="645.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Tic Tac Toe</text>
+<rect x="691.0" y="104" width="48" height="26" rx="8" fill="#ff7ab6" fill-opacity="0.9"/><text x="715.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">08</text>
+<text x="715.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Fortune</text>
+<rect x="761.0" y="104" width="48" height="26" rx="8" fill="#ff7ab6" fill-opacity="0.9"/><text x="785.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">09</text>
+<text x="785.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Guessing</text>
+<rect x="831.0" y="104" width="48" height="26" rx="8" fill="#5ee0a0" fill-opacity="0.9"/><text x="855.0" y="122" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#0b1226">10</text>
+<text x="855.0" y="142" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#9aa7d0">Zodiac</text>
+<rect x="24" y="148.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="165" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">numpy</text>
+<circle cx="225.0" cy="160" r="8" fill="#ffd43b"/>
+<circle cx="295.0" cy="160" r="8" fill="#ffd43b"/>
+<circle cx="365.0" cy="160" r="8" fill="#4fd1ff"/>
+<circle cx="505.0" cy="160" r="8" fill="#4fd1ff"/>
+<circle cx="575.0" cy="160" r="8" fill="#4fd1ff"/>
+<text x="902" y="165" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">5×</text>
+<text x="176" y="195" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">OpenCV</text>
+<circle cx="365.0" cy="190" r="8" fill="#4fd1ff"/>
+<circle cx="505.0" cy="190" r="8" fill="#4fd1ff"/>
+<circle cx="575.0" cy="190" r="8" fill="#4fd1ff"/>
+<text x="902" y="195" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">3×</text>
+<rect x="24" y="208.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="225" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">matplotlib</text>
+<circle cx="225.0" cy="220" r="8" fill="#ffd43b"/>
+<circle cx="295.0" cy="220" r="8" fill="#ffd43b"/>
+<circle cx="505.0" cy="220" r="8" fill="#4fd1ff"/>
+<text x="902" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">3×</text>
+<text x="176" y="255" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">tkinter</text>
+<circle cx="505.0" cy="250" r="8" fill="#4fd1ff"/>
+<circle cx="645.0" cy="250" r="8" fill="#ff7ab6"/>
+<circle cx="855.0" cy="250" r="8" fill="#5ee0a0"/>
+<text x="902" y="255" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">3×</text>
+<rect x="24" y="268.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="285" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">pandas</text>
+<circle cx="225.0" cy="280" r="8" fill="#ffd43b"/>
+<circle cx="295.0" cy="280" r="8" fill="#ffd43b"/>
+<text x="902" y="285" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">2×</text>
+<text x="176" y="315" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">seaborn</text>
+<circle cx="225.0" cy="310" r="8" fill="#ffd43b"/>
+<circle cx="295.0" cy="310" r="8" fill="#ffd43b"/>
+<text x="902" y="315" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">2×</text>
+<rect x="24" y="328.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="345" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">Pillow</text>
+<circle cx="505.0" cy="340" r="8" fill="#4fd1ff"/>
+<text x="902" y="345" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<text x="176" y="375" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">mediapipe</text>
+<circle cx="365.0" cy="370" r="8" fill="#4fd1ff"/>
+<text x="902" y="375" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<rect x="24" y="388.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="405" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">prophet</text>
+<circle cx="225.0" cy="400" r="8" fill="#ffd43b"/>
+<text x="902" y="405" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<text x="176" y="435" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">reportlab</text>
+<circle cx="855.0" cy="430" r="8" fill="#5ee0a0"/>
+<text x="902" y="435" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<rect x="24" y="448.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="465" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">scikit-learn</text>
+<circle cx="295.0" cy="460" r="8" fill="#ffd43b"/>
+<text x="902" y="465" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<text x="176" y="495" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">torch</text>
+<circle cx="365.0" cy="490" r="8" fill="#4fd1ff"/>
+<text x="902" y="495" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<rect x="24" y="508.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="525" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">transformers</text>
+<circle cx="295.0" cy="520" r="8" fill="#ffd43b"/>
+<text x="902" y="525" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<text x="176" y="555" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">wordcloud</text>
+<circle cx="295.0" cy="550" r="8" fill="#ffd43b"/>
+<text x="902" y="555" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">1×</text>
+<rect x="24" y="568.0" width="932" height="30" rx="8" fill="#ffffff" fill-opacity="0.04"/>
+<text x="176" y="585" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#e8ecff">stdlib only</text>
+<circle cx="435.0" cy="580" r="8" fill="#ffd43b"/>
+<circle cx="715.0" cy="580" r="8" fill="#ff7ab6"/>
+<circle cx="785.0" cy="580" r="8" fill="#ff7ab6"/>
+<text x="902" y="585" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">3×</text>
+<circle cx="39" cy="644" r="7" fill="#ffd43b"/><text x="52" y="649" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Data &amp; ML</text>
+<circle cx="189" cy="644" r="7" fill="#4fd1ff"/><text x="202" y="649" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Computer vision</text>
+<circle cx="339" cy="644" r="7" fill="#ff7ab6"/><text x="352" y="649" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Games</text>
+<circle cx="489" cy="644" r="7" fill="#5ee0a0"/><text x="502" y="649" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa7d0">Utility</text>
+</svg>
