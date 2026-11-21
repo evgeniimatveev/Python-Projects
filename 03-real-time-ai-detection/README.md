@@ -2,7 +2,7 @@
 
 > YOLOv5 object detection + MediaPipe hands & pose + 9 live webcam filters
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/✨-real-time-ai-detection/real_time_ai_detection.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](real_time_ai_detection.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## What it does
@@ -31,8 +31,9 @@ Three AI systems running simultaneously on the webcam feed:
 ## Quick Start
 
 ```bash
-git checkout ✨-real-time-ai-detection
-pip install opencv-python torch torchvision mediapipe
+git clone https://github.com/evgeniimatveev/Python-Projects.git
+cd Python-Projects/03-real-time-ai-detection
+uv pip install opencv-python torch torchvision mediapipe
 jupyter notebook real_time_ai_detection.ipynb
 ```
 
@@ -40,4 +41,4 @@ jupyter notebook real_time_ai_detection.ipynb
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)

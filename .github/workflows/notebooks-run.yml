@@ -1,0 +1,33 @@
+name: Notebooks run (manual)
+
+# Manual only: click "Run workflow" in the Actions tab. No push / PR / schedule triggers.
+# Executes the notebooks that can run without a human, a webcam or a private dataset:
+# input() gets scripted answers, tkinter windows are built under Xvfb and closed at once.
+on:
+  workflow_dispatch:
+  push:
+    branches: [restructure/single-main-numbered-projects]   # TEMPORARY: to test before merge
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v7
+      - name: Install system packages (virtual display and Tk for the GUI notebooks)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq xvfb python3-tk
+      - name: Install Python packages
+        run: >
+          uv pip install --system nbclient nbformat ipykernel pandas numpy matplotlib seaborn
+          prophet plotly opencv-contrib-python-headless pillow reportlab
+      - name: Run the notebooks (see Job Summary for the table)
+        run: xvfb-run -a python .github/scripts/run_notebooks.py
+        env:
+          MPLBACKEND: agg

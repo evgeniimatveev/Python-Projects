@@ -2,7 +2,7 @@
 
 > 9 live webcam filter modes, switchable with keyboard, FPS overlay
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/🔍-opencv-realtime/opencv_realtime.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](opencv_realtime.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## Controls
@@ -25,8 +25,9 @@ A HUD overlay shows the active effect name and live FPS counter.
 ## Quick Start
 
 ```bash
-git checkout 🔍-opencv-realtime
-pip install opencv-contrib-python
+git clone https://github.com/evgeniimatveev/Python-Projects.git
+cd Python-Projects/06-opencv-realtime-effects
+uv pip install opencv-contrib-python
 jupyter notebook opencv_realtime.ipynb
 ```
 
@@ -34,4 +35,4 @@ jupyter notebook opencv_realtime.ipynb
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)

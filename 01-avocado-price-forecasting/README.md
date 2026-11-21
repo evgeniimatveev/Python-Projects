@@ -2,7 +2,7 @@
 
 > EDA + Prophet time-series forecast on US avocado prices 2015–2018
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/🥑-avocado-prices-prediction/avocado_price_forecasting.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](avocado_price_forecasting.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## What you get
@@ -24,18 +24,17 @@
 
 ## Dataset
 
-`avocado.csv` — included in this branch. Hass Avocado Board data, 18K rows, 54 regions.
+`avocado.csv` — included in this folder. Hass Avocado Board data, 18K rows, 54 regions.
 
 ## Quick Start
 
 ```bash
 git clone https://github.com/evgeniimatveev/Python-Projects.git
-cd Python-Projects
-git checkout 🥑-avocado-prices-prediction
-pip install prophet plotly seaborn pandas matplotlib
+cd Python-Projects/01-avocado-price-forecasting
+uv pip install prophet plotly seaborn pandas matplotlib
 jupyter notebook avocado_price_forecasting.ipynb
 ```
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)

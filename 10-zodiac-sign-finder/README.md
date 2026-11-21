@@ -2,7 +2,7 @@
 
 > Name + birthdate → full astrology report with PDF export
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/♒-zodiac-sign-finder/zodiac_sign.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](zodiac_sign.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## Report includes
@@ -28,11 +28,12 @@ print(build_report("Evgenii", 15, 3, 1990))
 ## Quick Start
 
 ```bash
-git checkout ♒-zodiac-sign-finder
-pip install reportlab   # optional, for PDF export only
+git clone https://github.com/evgeniimatveev/Python-Projects.git
+cd Python-Projects/10-zodiac-sign-finder
+uv pip install reportlab   # optional, for PDF export only
 jupyter notebook zodiac_sign.ipynb
 ```
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)

@@ -2,7 +2,7 @@
 
 > Age-based movie recommendation engine covering every life stage
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/🎬-movie-recommendation/movie_recommendation.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](movie_recommendation.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## How it works
@@ -23,7 +23,8 @@ Covers **16 age groups** from 0 to 81+, plus a trending movies section.
 ## Quick Start
 
 ```bash
-git checkout 🎬-movie-recommendation
+git clone https://github.com/evgeniimatveev/Python-Projects.git
+cd Python-Projects/04-movie-recommendation
 jupyter notebook movie_recommendation.ipynb
 ```
 
@@ -31,4 +32,4 @@ No dependencies beyond standard library. Run the last cell and enter your age.
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)

@@ -2,7 +2,7 @@
 
 > 9 OpenCV visual effects with tkinter GUI — load, apply, save
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/🖼️-image-processing/image_processing.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](image_processing.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## Effects
@@ -28,11 +28,12 @@
 ## Quick Start
 
 ```bash
-git checkout 🖼️-image-processing
-pip install opencv-contrib-python pillow
+git clone https://github.com/evgeniimatveev/Python-Projects.git
+cd Python-Projects/05-image-processing-app
+uv pip install opencv-contrib-python pillow
 jupyter notebook image_processing.ipynb
 ```
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)

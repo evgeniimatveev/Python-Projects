@@ -2,7 +2,7 @@
 
 > Choose a color & sacred number — the Oracle reveals your destiny
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](https://github.com/evgeniimatveev/Python-Projects/blob/🔮-fortune-teller/fortune_teller.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=jupyter&logoColor=white)](fortune_teller.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## How it works
@@ -25,7 +25,8 @@
 ## Quick Start
 
 ```bash
-git checkout 🔮-fortune-teller
+git clone https://github.com/evgeniimatveev/Python-Projects.git
+cd Python-Projects/08-fortune-teller
 jupyter notebook fortune_teller.ipynb
 ```
 
@@ -33,4 +34,4 @@ Standard library only — no installs needed. Run the last cell.
 
 ---
 
-← [All Projects](https://github.com/evgeniimatveev/Python-Projects)
+← [All projects](../README.md)
