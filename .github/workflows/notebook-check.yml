@@ -1,0 +1,22 @@
+name: Notebook check
+
+# Automatic and light: nothing is executed, only structure is checked.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v7
+      - name: Validate notebooks, code cells, data files and README links
+        run: uv run --no-project --with nbformat python .github/scripts/check_notebooks.py
+        env:
+          PYTHONWARNINGS: ignore
